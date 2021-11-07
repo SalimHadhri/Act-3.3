@@ -1,5 +1,3 @@
-
-
 #header_background{
   width:100%;
   height: 600px;
@@ -93,8 +91,33 @@ position: fixed;
 }
 
 
+#mer a
+{
+  color: black ;
+  display: flex;
+  flex-direction: row ;
+  margin: 0px -20px;
+
+}
 
 
+
+blockquote p
+{
+   margin: 0px;
+}
+
+#accordionPanelsStayOpenExample
+{
+  margin: 0px -20px;
+
+}
+
+#accordionPanelsStayOpenExample button
+{
+  background-color: #EE2154 ;
+
+}
 
 #end
 {
